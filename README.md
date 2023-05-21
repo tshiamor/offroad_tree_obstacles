@@ -21,6 +21,8 @@ https://universe.roboflow.com/saud/palm-26uqe/dataset/1
 
 
 ## inspired by work done here:
+https://github.com/kasiv008/OFFSEG
+
 https://github.com/rayguan97/GANav-offroad
 
 https://github.com/open-mmlab/mmsegmentation/tree/main
