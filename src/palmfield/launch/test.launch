@@ -1,0 +1,19 @@
+
+
+
+<launch>
+  <node
+    pkg="palmfield"
+    type="process"
+    name="process"
+    output="screen"
+  />
+  <node
+    pkg="palmfield"
+    type="resultDisplay"
+    name="resultDisplay"
+    output="screen"
+  />
+</launch> 
+
+
