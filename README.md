@@ -43,7 +43,13 @@ https://drive.google.com/file/d/1Q2t1n0ZFvX2cBCRQuiYjWPfbqNrmOH4U/view?usp=shari
 - steps:
 
 
-## section 2: obtain a region of interest for searching
+## section 2: obtain a region of interest for searching (incomplete)
+![image](https://github.com/tshiamor/offroad_tree_obstacles/assets/56265291/da95d5df-3a73-4d42-b20c-3aa4011573a5)
+![image](https://github.com/tshiamor/offroad_tree_obstacles/assets/56265291/ca33b95c-1a69-4fe9-8d7b-9f90b5126f08)
+![image](https://github.com/tshiamor/offroad_tree_obstacles/assets/56265291/0c8d70c2-bc27-4ed7-a65c-aba8f56f7081)
+
+
+
 
 ## section 3: integration in ros for deployment
 ros source codes : src/palmfield
