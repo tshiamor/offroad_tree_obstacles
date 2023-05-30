@@ -31,7 +31,7 @@ int main(argc, char *argv[] ){
     ros:::NodeHandle nh;
     image_transport::ImageTransport it(nh);
 
-    image_transport::Subscriber sub = it.subscribe("rtImage", 1, imageCallback);
+    image_transport::Subscriber sub = it.subscribe("rtImage", 1, Callback);
 
     ros::spin()
     cv::destroWindow("resultDisplayWindow");
