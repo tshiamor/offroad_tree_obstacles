@@ -31,6 +31,10 @@ https://github.com/unmannedlab/RELLIS-3D/blob/main/README.md#annotated-data
 
 http://rugd.vision/
 
+
+![image](https://github.com/tshiamor/offroad_tree_obstacles/assets/56265291/15d893bb-165e-48ee-b227-17cd027fb2c5)
+
+
 ## section 1: training the classifier to detect palm trees
 training the classifier
 trained models found here:
