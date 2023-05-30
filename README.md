@@ -30,3 +30,19 @@ https://github.com/open-mmlab/mmsegmentation/tree/main
 https://github.com/unmannedlab/RELLIS-3D/blob/main/README.md#annotated-data
 
 http://rugd.vision/
+
+## section 1: training the classifier to detect palm trees
+training the classifier
+trained models found here:
+https://drive.google.com/file/d/1Q2t1n0ZFvX2cBCRQuiYjWPfbqNrmOH4U/view?usp=sharing
+- trainied model *pt model is converted to onnx for usier use by any/other platforms in inference 
+- steps:
+
+
+## section 2: obtain a region of interest for searching
+
+## section 3: integration in ros for deployment
+ros source codes : src/palmfield
+
+
+
